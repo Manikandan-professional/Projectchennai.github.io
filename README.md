@@ -18,3 +18,11 @@
 (1) **It is not sufficient to just fit a model - the model must be analysed to find the important factors that contribute towards the price.**
 
 (2) Also, it will be better to give a forecast range (range of permissible values) rather than a single estimate as it will help the customers to negotiate.
+
+End Product Implementation - Heroku
+Heroku (Size Fitter)
+Clean up the Git repository.
+Move some files out of the repo.
+Ignore some files that have to be in the repo.
+Remove unused dependencies.
+Bundle only what you need for the environment.
