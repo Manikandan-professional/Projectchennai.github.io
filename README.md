@@ -1,4 +1,4 @@
-# Chennai House Price Prediction
+# Chennai House Price Prediction with end to end Product Development
 **Problem Statement**
 
 (1) Real estate transactions are quite opaque sometimes and it may be difficult for a newbie to know the fair price of any given home. 
@@ -19,10 +19,10 @@
 
 (2) Also, it will be better to give a forecast range (range of permissible values) rather than a single estimate as it will help the customers to negotiate.
 
-End Product Implementation - Heroku
-Heroku (Size Fitter)
-Clean up the Git repository.
-Move some files out of the repo.
-Ignore some files that have to be in the repo.
-Remove unused dependencies.
-Bundle only what you need for the environment.
+# End Product Implementation - Heroku
+1. Heroku (Size Fitter)
+2. Clean up the Git repository.
+3. Move some files out of the repo.
+4. Ignore some files that have to be in the repo.
+5. Remove unused dependencies.
+6. Bundle only what you need for the environment.
