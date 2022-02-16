@@ -19,10 +19,4 @@
 
 (2) Also, it will be better to give a forecast range (range of permissible values) rather than a single estimate as it will help the customers to negotiate.
 
-# End Product Implementation - Heroku
-1. Heroku (Size Fitter)
-2. Clean up the Git repository.
-3. Move some files out of the repo.
-4. Ignore some files that have to be in the repo.
-5. Remove unused dependencies.
-6. Bundle only what you need for the environment.
+
