@@ -26,5 +26,5 @@
 3. Move some files out of the repo.
 4. Ignore some files that have to be in the repo.
 5. Remove unused dependencies.
-6. 6. Bundle only what you need for the environment.
+6. 6. Bundle only what you need for the environment 
 
